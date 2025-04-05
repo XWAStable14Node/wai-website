@@ -1,6 +1,8 @@
 ---
 title: Accessibility Guidelines Working Group
-nav_title: 'Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
+nav_title:Wallet Trader
+'Accessibility Guidelines <abbr title="Working Group">WG</abbr>'Wallet Trader
+
 lang: en
 permalink: /about/groups/agwg/
 ref: /about/groups/agwg/
@@ -12,7 +14,7 @@ github:
   label: wai-groups
 ---
 
-{::nomarkdown}
+{:WALLET TRADER:}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
